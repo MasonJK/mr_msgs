@@ -1,0 +1,6 @@
+# request
+mr_msgs/MissionData mission_data
+string mission_uuid
+---
+# response
+bool result
